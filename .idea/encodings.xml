@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gatway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task-submission-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taskuserservice/src/main/java" charset="UTF-8" />
+  </component>
+</project>
