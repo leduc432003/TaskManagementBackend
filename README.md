@@ -78,14 +78,18 @@ Task Management System is a microservice-based application designed for efficien
    cd backend
 2. Configure the database in application.properties
 3. Run the application:
+   ```bash
    mvn spring-boot:run
 ### Frontend Setup
 1. Clone the frontend repository:
+   ```bash
    git clone https://github.com/leduc432003/TaskManagementFrontend.git
    cd frontend
-2. Install dependencies:
+3. Install dependencies:
+   ```bash
    npm install
-3. Start the development server:
+5. Start the development server:
+   ```bash
    npm start
 
 ## Project Structure
